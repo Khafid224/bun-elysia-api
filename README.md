@@ -21,3 +21,6 @@ Open http://localhost:3000/ with your browser to see the result.
 
 ## uji coba menampilkan list data index
 ![image](https://github.com/user-attachments/assets/8e541e77-919c-446a-a591-05c4d241c32a)
+
+## uji coba insert data
+![image](https://github.com/user-attachments/assets/bea945a9-69f9-4aaa-969a-4513c2a67b3f)
