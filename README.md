@@ -27,3 +27,6 @@ Open http://localhost:3000/ with your browser to see the result.
 
 ## uji coba menampilkan detail post
 ![image](https://github.com/user-attachments/assets/e2ec5025-fccb-41f6-994d-972193e0979c)
+
+## uji coba update data
+![image](https://github.com/user-attachments/assets/3c2ee320-6146-4d30-b70b-98e831eb04e5)
