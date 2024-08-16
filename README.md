@@ -30,3 +30,6 @@ Open http://localhost:3000/ with your browser to see the result.
 
 ## uji coba update data
 ![image](https://github.com/user-attachments/assets/3c2ee320-6146-4d30-b70b-98e831eb04e5)
+
+## uji coba delete data
+![image](https://github.com/user-attachments/assets/6dd30293-d346-476c-aef2-296dd6b66d9a)
