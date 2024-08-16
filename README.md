@@ -24,3 +24,6 @@ Open http://localhost:3000/ with your browser to see the result.
 
 ## uji coba insert data
 ![image](https://github.com/user-attachments/assets/bea945a9-69f9-4aaa-969a-4513c2a67b3f)
+
+## uji coba menampilkan detail post
+![image](https://github.com/user-attachments/assets/e2ec5025-fccb-41f6-994d-972193e0979c)
